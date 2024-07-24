@@ -13,7 +13,7 @@ I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, 
 
 - 💬 Ask me about **Spring Boot, MERN, React**
 
-- 📫 How to reach me **skumarsatyam143@gmail.com**
+- 📫 How to reach me **rajeevsinghrajput38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
