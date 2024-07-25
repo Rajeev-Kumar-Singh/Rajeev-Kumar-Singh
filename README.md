@@ -32,8 +32,8 @@ I am a full stack developer with experience in Java, Spring Boot, MySQL, Kafka, 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevsingh8210&show_icons=true&theme=radical&locale=en&layout=compact" alt="rajeevsingh8210" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajeev-Kumar-Singh&show_icons=true&theme=radical&locale=en&layout=compact" alt="Rajeev-Kumar-Singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevsingh8210&show_icons=true&theme=radical&locale=en" alt="rajeevsingh8210" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajeev-Kumar-Singh&show_icons=true&theme=radical&locale=en" alt="Rajeev-Kumar-Singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevsingh8210&theme=radical" alt="rajeevsingh8210" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-Kumar-Singh&theme=radical" alt="Rajeev-Kumar-Singh" /></p>
