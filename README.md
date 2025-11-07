@@ -23,16 +23,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev-Kumar-Singh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev-Kumar-Singh&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeev-Kumar-Singh&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rajeev-Kumar-Singh&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev-Kumar-Singh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev-Kumar-Singh&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 ---
 
