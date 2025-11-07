@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on: **CivilBrain Project**
 - 🌱 I’m learning: **Advanced React, Next.js, and Geospatial Data Visualization**
 - 💬 Ask me about: **React, Node.js, Google Maps, Turf.js**
-- 📫 Reach me at: **rajeevksingh@example.com** *(replace with your real email)*  
+- 📫 Reach me at: **rajeevsinghrajput38@gmail.com**  
 - ⚡ Fun fact: I love building interactive map-based UIs!
 
 ---
